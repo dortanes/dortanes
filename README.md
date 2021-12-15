@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! I'm Anton 👋
+Simply put, **1devout0**. I turn ideas into reality in order to make the world a better place. ✨
 
-<!--
-**1devout0/1devout0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm live on earth
+- 👦 I'm 16 y.o
+- 👨‍💻 Node.JS Fullstack *(mostly backend)* dev
+- 👀 Had experience with PHP, HTML, CSS, JS *(obviously)*
+- 🔧 Around 7 years of experience
+- 👨‍🎓 I'm engaged in self-education
+- 🤔 I'm skeptical about centralization, a supporter of decentralized networks
+- 🤭 I'm generate extensive ideas that I don't have the strength to implement 
