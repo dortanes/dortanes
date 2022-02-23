@@ -24,8 +24,9 @@ I embody my ideas into reality in order to make the world a better place ✨
 <code><img height="20" src="https://github.githubassets.com/images/icons/emoji/electron.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/generic.svg"></code>
 
-<br/>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1devout0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&line_height=20" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1devout0&layout=compact&theme=buefy&hide_border=true" /></a>
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1devout0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&line_height=22" alt="Anton's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1devout0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br/>
 <br/>
