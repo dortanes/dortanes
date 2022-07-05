@@ -28,9 +28,3 @@ I embody my ideas into reality in order to make the world a better place ✨
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1devout0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&line_height=22" alt="Anton's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1devout0&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br/>
-<br/>
-
-<a href="https://t.me/undefinedperson0">
-  <img align="right" alt="Telegram" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
-</a>
