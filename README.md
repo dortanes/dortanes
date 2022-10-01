@@ -10,7 +10,7 @@ I embody my ideas into reality in order to make the world a better place ✨
 - 💼 Founder of [cory.foundation](https://cory.foundation)
 - ⚡ I develop highly loaded AI, Blockchain, business logic projects
 - ✅ I give priority to using TypeScript
-- ➡ You can write me [here](https://github.com/1devout0/1devout0/issues)
+- ➡ [Write me on Telegram](https://destes.t.me)
 
 **I'm using**  
 
