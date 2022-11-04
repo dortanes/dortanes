@@ -24,6 +24,4 @@ I embody my ideas into reality in order to make the world a better place ✨
 <code><img height="20" src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/generic.svg"></code>
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dortanes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&line_height=22" alt="Anton's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dortanes&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dortanes&show_icons=true&include_all_commits=true&theme=buefy&line_height=22" alt="Anton's github stats" /></a>
