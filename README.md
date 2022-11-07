@@ -26,4 +26,4 @@
 <img height="50" src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/generic.svg"></p>
 <img width="13%" src="./stats.png" />
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dortanes&show_icons=true&include_all_commits=true&theme=buefy&line_height=22" alt="Anton's github stats" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dortanes&show_icons=true&include_all_commits=true&theme=buefy&line_height=22" alt="Anton's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dortanes&langs_count=7&theme=buefy" /></a>
