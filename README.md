@@ -1,10 +1,7 @@
 <br/>
 <p align="center"><a href="https://dortanes.com"><img width="50%" src="./logo.png" /></a></p>
 <p align="center">
- <a href="https://dortanes.com"><img width="40" src="./icons8-link-app.svg"></a>
-<a href="https://destes.t.me"><img width="40" src="./icons8-telegram-app.svg"></a>
-<a href="mailto:drtanes@yahoo.com"><img width="40" src="./icons8-mail-app.svg"></a>
-<a href="https://www.linkedin.com/in/anton-kovalenko-67245b250"><img width="40" src="./icons8-linkedin-app.svg"></a>
+ <a href="https://s.dortanes.com"><img width="40" src="./icons8-link-app.svg"></a>
 </p>
 
 <img width="20%" src="./aboutme.png" />
