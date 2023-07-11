@@ -8,7 +8,7 @@
 
 - 🔧 8 years in development
 - 💸 5 years of commercial development
-- ⚡ High-load software, blockchain, business logic, etc.
+- ⚡ AI, High-load, blockchain, business logic, etc.
 
 <img width="18%" src="./imusing.png" />
 
