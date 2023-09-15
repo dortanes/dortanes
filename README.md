@@ -6,8 +6,8 @@
 
 <img width="20%" src="./aboutme.png" />
 
-- 🔧 8 years in development
-- 💸 5 years of commercial development
+- 🔧 6 years in development
+- 💸 4 years of commercial development
 - ⚡ AI, High-load, blockchain, business logic, etc.
 
 <img width="18%" src="./imusing.png" />
