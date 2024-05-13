@@ -1,5 +1,5 @@
 <br/>
-<p align="center"><a href="https://dortanes.com"><img width="50%" src="./logo.png" /></a></p>
+<p align="center"><a href="https://dortanes.com"><img width="50%" src="./logotype.png" /></a></p>
 <p align="center">
  <a href="https://s.dortanes.com"><img width="40" src="./icons8-link-app.svg"></a>
 </p>
