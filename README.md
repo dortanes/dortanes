@@ -4,13 +4,13 @@
  <a href="https://s.dortanes.com"><img width="40" src="./icons8-link-app.svg"></a>
 </p>
 
-<img width="20%" src="./aboutme.png" />
+<h1>About me</h1>
 
-- 🔧 6 years in development
-- 💸 4 years of commercial development
+- 🔧 9 years in development
+- 💸 6 years of commercial development
 - ⚡ AI, High-load, blockchain, business logic, etc.
 
-<img width="18%" src="./imusing.png" />
+<h1>I'm using</h1>
 
 <p><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
